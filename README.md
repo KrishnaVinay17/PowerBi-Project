@@ -49,6 +49,11 @@ Low-fat products dominate sales in health-focused stores.
 
 Supermarket Type 3 contributes the highest revenue overall.
 
+📸 Dashboard Preview
+
+[Power BI Dashboard Preview]("https://github.com/KrishnaVinay17/PowerBi-Project/blob/main/Screenshot%202025-11-07%20212701.png")
+
+
 🚀 How to Use
 
 Clone or download this repository.
@@ -59,10 +64,10 @@ Explore interactive visuals and filters.
 
 Modify or update Big_Shop_Sales.xlsx to refresh the dashboard with new data.
 
-
-
 📢 Author
 
 K Krishna Vinayaka Goud
 📧 [vinaykrishnakv2020@gmail.com]
 💼 Data Analyst | Power BI Enthusiast
+
+⭐ *If you like this project, consider giving it a star on GitHub!*
